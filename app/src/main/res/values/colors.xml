@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="white">#FFFFFFFF</drawable>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <drawable name="android_green">#33969C</drawable>
+    <color name="colorAccent">#FF4081</color>
+    <color name="green">#33969C</color>
+    <color name="black">#000000</color>
+    <drawable name="orange">#F23400</drawable>
+</resources>
